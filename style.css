@@ -109,6 +109,13 @@ img{
 /*--------------------*/
 
 #header{
+	background-attachment: fixed !important;
+	background-image: url("assets/images/header-22.jpg");
+	background-repeat: repeat;  
+	background-size: cover;  
+	color: #ffffff;
+
+	height: 600px;
 	float: left;
 	display: inline;
 	width: 100%;
